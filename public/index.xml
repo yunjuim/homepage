@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Yunju Im</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 12 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/img/icon-32.png</url>
       <title>Yunju Im</title>
@@ -57,7 +57,7 @@
     <item>
       <title>Bayesian subgroup analysis</title>
       <link>/project/bayesiansubgroup/</link>
-      <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
       <guid>/project/bayesiansubgroup/</guid>
       <description></description>
     </item>
@@ -78,9 +78,7 @@
       <link>/talk/wsds2019/</link>
       <pubDate>Fri, 04 Oct 2019 11:45:00 -0500</pubDate>
       <guid>/talk/wsds2019/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-</description>
+      <description></description>
     </item>
     
     <item>

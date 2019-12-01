@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | Yunju Im</title>
+    <title>Talks | Yunju Im</title>
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Talks</description>
+    <description>Talks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Oct 2019 11:45:00 -0500</lastBuildDate>
     <image>
       <url>/img/img/icon-32.png</url>
-      <title>Recent &amp; Upcoming Talks</title>
+      <title>Talks</title>
       <link>/talk/</link>
     </image>
     
@@ -17,9 +17,7 @@
       <link>/talk/wsds2019/</link>
       <pubDate>Fri, 04 Oct 2019 11:45:00 -0500</pubDate>
       <guid>/talk/wsds2019/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>

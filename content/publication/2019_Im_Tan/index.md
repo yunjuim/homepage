@@ -8,8 +8,8 @@ authors:
 date: "2019-12-12T00:00:00Z"
 doi: ""
 featured: false
-projects:
-- internal-project
+#projects:
+#- internal-project
 publication: ''
 publication_short: ""
 publication_types:
@@ -17,8 +17,9 @@ publication_types:
 publishDate: "2019-12-12T00:00:00Z"
 slides: 
 summary: 
-tags:
-title: Bayesian subgroup analysis in regression using mixture models
+tags: 
+- Bayesian Subgroup analysis
+title: "Bayesian subgroup analysis in regression using mixture models"
 url_code: ""
 url_dataset: ""
 url_pdf: ""

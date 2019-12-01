@@ -16,8 +16,10 @@ publishDate: "2014-11-26T00:00:00Z"
 slides: 
 summary: 
 tags:
-- Source Themes
-title: High-throughput data dimension reduction viaseeded canonical correlation analysis
+- Dimension Reduction
+- Canonical Correlation Anlaysis
+- Multivarate Analysis
+title: High-throughput data dimension reduction via seeded canonical correlation analysis
 url_code: ""
 url_dataset: ""
 url_pdf: files/2015_Im_Gang_Yoo.pdf

@@ -14,6 +14,9 @@ publishDate: "2014-04-06T00:00:00Z"
 slides: 
 summary: 
 tags:
+- Dimension Reduction
+- Multivariate Analysis
+- Multivariate Regression
 title: Multivariate seeded dimension reduction
 url_code: ""
 url_dataset: ""

@@ -5,12 +5,20 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 12 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/img/icon-32.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>Bayesian subgroup analysis</title>
+      <link>/tags/bayesian-subgroup-analysis/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/bayesian-subgroup-analysis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Academic</title>
@@ -45,10 +53,42 @@
     </item>
     
     <item>
-      <title>Source Themes</title>
-      <link>/tags/source-themes/</link>
+      <title>Canonical Correlation Anlaysis</title>
+      <link>/tags/canonical-correlation-anlaysis/</link>
       <pubDate>Wed, 26 Nov 2014 00:00:00 +0000</pubDate>
-      <guid>/tags/source-themes/</guid>
+      <guid>/tags/canonical-correlation-anlaysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dimension Reduction</title>
+      <link>/tags/dimension-reduction/</link>
+      <pubDate>Wed, 26 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>/tags/dimension-reduction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multivarate Analysis</title>
+      <link>/tags/multivarate-analysis/</link>
+      <pubDate>Wed, 26 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>/tags/multivarate-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multivariate Analysis</title>
+      <link>/tags/multivariate-analysis/</link>
+      <pubDate>Sun, 06 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>/tags/multivariate-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multivariate Regression</title>
+      <link>/tags/multivariate-regression/</link>
+      <pubDate>Sun, 06 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>/tags/multivariate-regression/</guid>
       <description></description>
     </item>
     

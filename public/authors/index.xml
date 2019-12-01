@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 12 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/img/icon-32.png</url>
       <title>Authors</title>
@@ -15,12 +15,20 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I am a Ph.D. candidate in the Department of Statistics and Actuarial Science at the University of Iowa, supervised by Dr. Aixin Tan and Dr. Jian Huang. My research interests include Bayesian modeling and computation, Bayesian model selection, Bayesian nonparametrics, hierarchical modeling, and mixture models.&lt;/p&gt;
 &lt;p&gt;You can find my cv &lt;!-- raw HTML omitted --&gt;here&lt;!-- raw HTML omitted --&gt;.&lt;/p&gt;
 &lt;p&gt;I am currently on the job market. I would be more than happy to discuss any potential job opportunities. Please contact me!&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Aixin Tan</title>
+      <link>/authors/aixin-tan/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/aixin-tan/</guid>
+      <description></description>
     </item>
     
     <item>

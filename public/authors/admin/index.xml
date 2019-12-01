@@ -5,12 +5,20 @@
     <link>/authors/admin/</link>
       <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Yunju Im</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 12 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/img/icon-32.png</url>
       <title>Yunju Im</title>
       <link>/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>Bayesian subgroup analysis in regression using mixture models</title>
+      <link>/publication/2019_im_tan/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_im_tan/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
@@ -150,7 +158,7 @@ date: 2019-09-01
     </item>
     
     <item>
-      <title>High-throughput data dimension reduction viaseeded canonical correlation analysis</title>
+      <title>High-throughput data dimension reduction via seeded canonical correlation analysis</title>
       <link>/publication/2014_im_gang_yoo/</link>
       <pubDate>Wed, 26 Nov 2014 00:00:00 +0000</pubDate>
       <guid>/publication/2014_im_gang_yoo/</guid>

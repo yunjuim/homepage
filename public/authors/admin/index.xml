@@ -5,23 +5,12 @@
     <link>/authors/admin/</link>
       <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Yunju Im</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 12 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/img/icon-32.png</url>
       <title>Yunju Im</title>
       <link>/authors/admin/</link>
     </image>
-    
-    <item>
-      <title>Bayesian subgroup analysis in regression using mixture models</title>
-      <link>/publication/2019_im_tan/</link>
-      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019_im_tan/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-</description>
-    </item>
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>

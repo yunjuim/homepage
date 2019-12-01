@@ -6,18 +6,17 @@ authors:
 date: "2019-12-12T00:00:00Z"
 doi: ""
 featured: false
-#projects:
-#- internal-project
+projects:
+- internal-project
 publication: ''
 publication_short: ""
 publication_types:
-- "2"
+- "3"
 publishDate: "2019-12-12T00:00:00Z"
 slides: 
 summary: 
 tags: 
 - Bayesian Subgroup analysis
-- clustering
 title: "Bayesian subgroup analysis in regression using mixture models"
 url_code: ""
 url_dataset: ""

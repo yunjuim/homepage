@@ -19,7 +19,7 @@ weight = 60
 
 - Head Teaching Assistant (Fall 2016 - Spring 2019)
   
-  Statistics for Business
+    Statistics for Business
 
 - Teaching Assistant (Fall 2015 - Spring 2016)
 

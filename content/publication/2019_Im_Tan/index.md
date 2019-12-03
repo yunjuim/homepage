@@ -3,7 +3,7 @@ abstract: Heterogeneity occurs in many regression problems, where members from d
 authors:
 - admin
 - Aixin Tan
-date: "2019-12-12T00:00:00Z"
+date: "2019-12-01T00:00:00Z"
 doi: ""
 featured: false
 projects:
@@ -12,7 +12,7 @@ publication: ''
 publication_short: ""
 publication_types:
 - "3"
-publishDate: "2019-12-12T00:00:00Z"
+publishDate: "2019-12-01T00:00:00Z"
 slides: 
 summary: 
 tags: 

@@ -49,6 +49,4 @@ user_groups:
 ---
 I am a Ph.D. candidate in the Department of Statistics and Actuarial Science at the University of Iowa, supervised by Dr. Aixin Tan and Dr. Jian Huang. My research interests include Bayesian modeling and computation, Bayesian model selection, Bayesian nonparametrics, hierarchical modeling, and mixture models.
 
-You can find my cv {{% staticref "files/cv.pdf" %}}here{{% /staticref %}}.
-
-I am currently on the job market. I would be more than happy to discuss any potential job opportunities. Please contact me!
+<!-- You can find my cv {{% staticref "files/cv.pdf" %}}here{{% /staticref %}}. I am currently on the job market. I would be more than happy to discuss any potential job opportunities. Please contact me! -->

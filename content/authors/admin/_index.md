@@ -16,10 +16,10 @@ interests:
 - High-dimensional data
 name: Yunju Im
 organizations: 
-- name: Department of Statistics and Actuarial Science
-  url: "https://stat.uiowa.edu/"
-- name: University of Iowa
-  url: "https://uiowa.edu/"
+- name: Department of Biostatistics
+  # url: "https://stat.uiowa.edu/"
+- name: Yale School of Public Health
+  # url: "https://uiowa.edu/"
 - name: yunju.im@yale.edu
   url:
 role: Postdoctoral Associate
@@ -42,5 +42,5 @@ user_groups:
 - Visitors
 
 ---
-I am a postdoctoral associate working with Dr. Shuangge Ma in the Department of Biostatistics at Yale School of Public health. I received my Ph.D. in Statistics from the Department of Statistics and Actuarial Science at the University of Iowa, supervised by Drs. Aixin Tan and Jian Huang. My research interests include Bayesian modeling and computation, heterogeneity analysis, hierarchical modeling, and mixture models.  
+I am a postdoctoral associate working with Dr. Shuangge Ma in the Department of Biostatistics at Yale School of Public health. I received my Ph.D. in Statistics from the Department of Statistics and Actuarial Science at the University of Iowa, supervised by Drs. Aixin Tan and Jian Huang. My research interests include Bayesian statistics, heterogeneity analysis, hierarchical modeling, and mixture models.  
  

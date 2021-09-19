@@ -10,7 +10,7 @@ education:
 
 email: "yunju.im@yale.edu"
 interests:
-- Bayesian modeling and computation
+- Bayesian statistics
 - Bayesian hierarchical modeling and mixture models
 - Heterogeneity analysis
 - High-dimensional data

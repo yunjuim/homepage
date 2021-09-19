@@ -4,20 +4,15 @@ authors:
 bio: My research interests include Bayesian modeling and computation.
 education:
   courses:
-  - course: Ph.D. Candidate in Statistics
+  - course: Ph.D. in Statistics
     institution: University of Iowa
-    year: May 2020 (Expected)
-  - course: MS in Statistics
-    institution: Ewha Womans University
-    year: 2014
-  - course: BS in Statistics & BE in Economics
-    institution: Ewha Womans University
-    year: 2012
-email: "yunju-im@uiowa.edu"
+    year: May 2020 
+
+email: "yunju.im@yale.edu"
 interests:
 - Bayesian modeling and computation
 - Bayesian hierarchical modeling and mixture models
-- Bayesian nonparametrics
+- Heterogeneity analysis
 - High-dimensional data
 name: Yunju Im
 organizations: 
@@ -25,13 +20,13 @@ organizations:
   url: "https://stat.uiowa.edu/"
 - name: University of Iowa
   url: "https://uiowa.edu/"
-- name: yunju-im@uiowa.edu
+- name: yunju.im@yale.edu
   url:
-role: Ph.D. Candidate
+role: Postdoctoral Associate
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:yunju-im@uiowa.edu'
+  link: 'mailto:yunju.im@yale.edu'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -47,5 +42,5 @@ user_groups:
 - Visitors
 
 ---
-I am a Ph.D. candidate in the Department of Statistics and Actuarial Science at the University of Iowa, supervised by Dr. Aixin Tan and Dr. Jian Huang. My research interests include Bayesian modeling and computation, Bayesian model selection, Bayesian nonparametrics, hierarchical modeling, and mixture models.
-
+I am a postdoctoral associate working with Dr. Shuangge Ma in the Department of Biostatistics at Yale School of Public health. I received my Ph.D. in Statistics from the Department of Statistics and Actuarial Science at the University of Iowa, supervised by Drs. Aixin Tan and Jian Huang. My research interests include Bayesian modeling and computation, heterogeneity analysis, hierarchical modeling, and mixture models.  
+ 
